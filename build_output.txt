@@ -1,0 +1,13 @@
+
+> react@0.0.0 build
+> vite build
+
+[36mvite v8.0.0 [32mbuilding client environment for production...[36m[39m
+[2Ktransforming...✓ 19 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.45 kB │ gzip:  0.29 kB
+dist/assets/index-BrhkIbRu.css    8.16 kB │ gzip:  2.49 kB
+dist/assets/index-Ba1oEMv1.js   192.42 kB │ gzip: 60.77 kB
+
+[32m✓ built in 352ms[39m
